@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/scabfos/react-fundamentals#readme",
   "dependencies": {
+    "axios": "^0.15.3",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-router": "^2.8.1"
